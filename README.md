@@ -3,7 +3,7 @@
 [Mini Lecture](https://github.com/LeoYiChen/Industry4.0-An-Introduction/blob/master/mini-lecture-I4-v2.mkv)
 ***
 
-![](https://github.com/LeoYiChen/Industry4.0-An-Introduction/blob/master/i401.jpg)
+![](https://github.com/LeoYiChen/What-is-Industry-4.0---An-Introduction/blob/master/i401.JPG)
 ![](https://github.com/LeoYiChen/Industry4.0-An-Introduction/blob/master/i402.jpg)
 ![](https://github.com/LeoYiChen/Industry4.0-An-Introduction/blob/master/i403.jpg)
 ![](https://github.com/LeoYiChen/Industry4.0-An-Introduction/blob/master/i404.jpg)
