@@ -24,6 +24,6 @@
 ![](https://github.com/LeoYiChen/Industry4.0-An-Introduction/blob/master/i419.jpg)
 ***
 
-[PDF](https://github.com/LeoYiChen/Industry4.0-An-Introduction/blob/mini-lecture/01-introduction%20to%20i4-2019-01-30.pdf)
+[PDF](https://github.com/LeoYiChen/What-is-Industry-4.0---An-Introduction/blob/master/01-introduction%20to%20i4-20200606.pdf)
 
 
