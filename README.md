@@ -1,5 +1,4 @@
-# Industry4.0-An-Introduction
-Industry 4.0 in Manufacturing-An Introduction
+# What is Industry 4.0? - An Introduction to Industry 4.0 
 
 [Mini Lecture](https://github.com/LeoYiChen/Industry4.0-An-Introduction/blob/master/mini-lecture-I4-v2.mkv)
 ***
